@@ -9,7 +9,10 @@ var articles ={
     title: 'Article One | Gowtham',
     heading: 'Article one',
     date: 'Aug 5,2017',
-    content:` <p>
+    content:`  <p>
+                 Note :Web Page Is Under Construction
+                </p>
+                <p>
                      This is the content of my first article,This is the content of my first article,This is the content of my first article,This is the content of my first article,This is the content of my first article,This is the content of my first article
                  </p>
                  <p>
@@ -24,7 +27,10 @@ var articles ={
             title: 'Article Two | Gowtham',
     heading: 'Article Two',
     date: 'Aug 15,2017',
-    content: `                <p>
+    content: `  <p>
+                 Note :Web Page Is Under Construction
+                </p>
+                <p>
                       This is the content of my second article,This is the content of my second article,This is the content of my second article,This is the content of my second article,This is the content of my second article,This is the content of my second article
                 <p>
                        This is the content of my second article,This is the content of my second article,This is the content of my second article,This is the content of my second article,This is the content of my second article,This is the content of my second article
@@ -35,7 +41,10 @@ var articles ={
      'article-three':{ title: 'Article three | Gowtham',
     heading: 'Article three',
     date: 'Aug 25,2017',
-    content:`                 <p>
+    content:` <p>
+                 Note :Web Page Is Under Construction
+                </p>             
+                <p>
                     This is the content of my third article,This is the content of my third article,This is the content of my third article,This is the content of my third article,This is the content of my third article,This is the content of my third article
                 </p>
                 <p>This is the content of my third article,This is the content of my third article,This is the content of my third article,This is the content of my third article,This is the content of my third article,This is the content of my third article
