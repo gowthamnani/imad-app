@@ -2,7 +2,7 @@ console.log('Loaded!');
 
  // change the text of the main-text div
  var element = document.getElementById('main-text');
- element.innerHTML = "New Value(web is under construction)";
+ element.innerHTML = 'New Value(web is under construction)';
  
  //move the image
  var img = document.getElementById('madi');
